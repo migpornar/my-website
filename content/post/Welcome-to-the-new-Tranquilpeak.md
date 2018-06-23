@@ -1,19 +1,22 @@
 ---
-title: "Welcome to Tranquilpeak 0.4.3-BETA"
-date: 2015-06-15
+title: "Esto es una prueba"
+date: 2018-06-23
 categories:
 - tranquilpeak
 - releases
+- esp
 tags:
 - hexo theme
 - responsive
 - gravatar
 - disqus
 - google analytics
+- baba
 keywords:
 - disqus
 - google
 - gravatar
+- lala
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
@@ -28,6 +31,8 @@ Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many
 <!-- toc -->
 
 # Tranquilpeak
+
+Hablo aqui sobre cosas
 
 <!--[![Join the chat at https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak](https://badges.gitter.im/Join%20Chat.svg)](http s://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)-->
 
