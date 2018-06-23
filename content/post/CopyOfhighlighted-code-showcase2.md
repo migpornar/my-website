@@ -2,7 +2,7 @@
 title: "highlighted code showcase"
 date: 2015-03-23
 categories:
-  - spanish
+  - english
 tags:
   - highlight code
   - github theme
