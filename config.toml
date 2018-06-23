@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Miguel A. Porras"
-  bio = "Mathematician specialized in Statistics. Interested in Machine Learning, data visualizations and functional programming."
+  bio = "Data Scientist at Genera Games. Interested in Machine Learning, data visualizations and functional programming."
   job = "Data Scientist at Genera Games"
   location = "Spain"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -70,12 +70,6 @@ canonifyurls = true
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 5
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
 
 [[menu.links]]
   weight = 1
