@@ -83,6 +83,18 @@ canonifyurls = true
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/migpornar"
+[[menu.links]]
+  weight = 1
+  identifier = "twitter"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
+  url = "https://twitter.com/migpornar"
+[[menu.links]]
+  weight = 1
+  identifier = "linkedin"
+  name = "Linkedin"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
+  url = "https://www.linkedin.com/in/miguel-a-porras-naranjo-245943130/"
 
 [params]
   # Customize date format use to render blog post date, categories and other
