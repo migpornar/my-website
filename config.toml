@@ -55,7 +55,7 @@ canonifyurls = true
 [[menu.main]]
   weight = 2
   identifier = "categories"
-  name = "Categories"
+  name = "Language selector"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/categories"
 [[menu.main]]
