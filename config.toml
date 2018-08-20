@@ -94,7 +94,7 @@ canonifyurls = true
   identifier = "linkedin"
   name = "Linkedin"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
-  url = "https://www.linkedin.com/in/miguel-a-porras-naranjo-245943130/"
+  url = "https://www.linkedin.com/in/miguel-a-porras/"
 
 [params]
   # Customize date format use to render blog post date, categories and other
